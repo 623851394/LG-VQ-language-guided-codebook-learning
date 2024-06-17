@@ -1,0 +1,1 @@
+need to download 'ViT-B-32.pt'
