@@ -1,8 +1,8 @@
-# LG-VQ: language-guided-codebook-learning
+# LG-VQ: Language Guided Codebook Learning
 
 This repository contains the code for the paper:
 
-[LG-VQ: Language-guided Codebook Learning](https://arxiv.org/pdf/2405.14206)
+[LG-VQ: Language-Guided Codebook Learning](https://arxiv.org/pdf/2405.14206)
 
 Guotao Liang, Baoquan Zhang, Yaowei Wang, Xutao Li, Yunming Ye, Huaibin Wang, Chuyao Luo, Kola Ye, Linfeng Luo.
 
